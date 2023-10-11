@@ -1,4 +1,4 @@
-const API_URL = 'https://grimoireback.oliviergautheron';
+const API_URL = 'https://grimoireback.oliviergautheron.fr';
 export const API_ROUTES = {
   SIGN_UP: `${API_URL}/api/auth/signup`,
   SIGN_IN: `${API_URL}/api/auth/login`,
